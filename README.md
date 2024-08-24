@@ -69,7 +69,8 @@ This script is a powerful tool for scraping Twitter comments but must be used re
 - **Rate Limiting:** Implement rate-limiting to avoid Twitter blocking the account due to excessive requests.
 - **Headless Mode:** Consider running the Chrome browser in headless mode for better performance in server environments.
 
-
+## CSV Combiner
+- This code will create unique files for every tweet. You can combine all csv files too a single csv file using csv combiner file.
 
 ## Conclusion
 This project demonstrates a novel approach to Twitter data scraping by combining ntscraper for fetching tweet details and Selenium for automating browser interactions to scrape comments. The two scripts work together to provide a comprehensive solution for gathering and analyzing Twitter data. This implementation is the first of its kind, created entirely by me, and provides a powerful tool for extracting valuable insights from Twitter.
