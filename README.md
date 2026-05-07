@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0b7fa91-e38d-4983-8256-b6225e2034dd" />
+
 # Twitter Scraper Automation Script
 ## Introduction
 This project is a pioneering implementation of a Twitter comment scraping automation script, designed and developed entirely by me. The script enables efficient extraction of comments from specific tweets, a task that has not been addressed in this exact manner before. The code is tailored to interact with Twitter's dynamic web content, automating the process of logging into a Twitter account, navigating to individual tweet URLs, and systematically collecting user comments along with associated metadata such as user IDs, timestamps, and tweet content.
